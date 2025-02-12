@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Musaab</h1>
-<h3 align="center">Computer science Graduate</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center"></h3>
 
 
 <h3 align="left">Programming languages:</h3>
